@@ -163,7 +163,7 @@ path = "src/bin/matrix/37_set_matrix_zeroes.rs"
 name = "38_game_of_life"
 path = "src/bin/matrix/38_game_of_life.rs"
 
-# ---- hashmap (problems 39-40) ----
+# ---- hashmap (problems 39-47) ----
 
 [[bin]]
 name = "39_ransom_note"
@@ -172,3 +172,89 @@ path = "src/bin/hashmap/39_ransom_note.rs"
 [[bin]]
 name = "40_isomorphic_strings"
 path = "src/bin/hashmap/40_isomorphic_strings.rs"
+
+[[bin]]
+name = "41_word_pattern"
+path = "src/bin/hashmap/41_word_pattern.rs"
+
+[[bin]]
+name = "42_valid_anagram"
+path = "src/bin/hashmap/42_valid_anagram.rs"
+
+[[bin]]
+name = "43_group_anagrams"
+path = "src/bin/hashmap/43_group_anagrams.rs"
+
+[[bin]]
+name = "44_two_sum"
+path = "src/bin/hashmap/44_two_sum.rs"
+
+[[bin]]
+name = "45_happy_number"
+path = "src/bin/hashmap/45_happy_number.rs"
+
+[[bin]]
+name = "46_contains_duplicate_ii"
+path = "src/bin/hashmap/46_contains_duplicate_ii.rs"
+
+[[bin]]
+name = "47_longest_consecutive_sequence"
+path = "src/bin/hashmap/47_longest_consecutive_sequence.rs"
+
+# ---- intervals (problems 48-51) ----
+
+[[bin]]
+name = "48_summary_ranges"
+path = "src/bin/intervals/48_summary_ranges.rs"
+
+[[bin]]
+name = "49_merge_intervals"
+path = "src/bin/intervals/49_merge_intervals.rs"
+
+[[bin]]
+name = "50_insert_interval"
+path = "src/bin/intervals/50_insert_interval.rs"
+
+[[bin]]
+name = "51_minimum_number_of_arrows_to_burst_balloons"
+path = "src/bin/intervals/51_minimum_number_of_arrows_to_burst_balloons.rs"
+
+# ---- stack (problems 52-56) ----
+
+[[bin]]
+name = "52_valid_parentheses"
+path = "src/bin/stack/52_valid_parentheses.rs"
+
+[[bin]]
+name = "53_simplify_path"
+path = "src/bin/stack/53_simplify_path.rs"
+
+[[bin]]
+name = "54_min_stack"
+path = "src/bin/stack/54_min_stack.rs"
+
+[[bin]]
+name = "55_evaluate_reverse_polish_notation"
+path = "src/bin/stack/55_evaluate_reverse_polish_notation.rs"
+
+[[bin]]
+name = "56_basic_calculator"
+path = "src/bin/stack/56_basic_calculator.rs"
+
+# ---- linked_list (problems 57-60) ----
+
+[[bin]]
+name = "57_linked_list_cycle"
+path = "src/bin/linked_list/57_linked_list_cycle.rs"
+
+[[bin]]
+name = "58_add_two_numbers"
+path = "src/bin/linked_list/58_add_two_numbers.rs"
+
+[[bin]]
+name = "59_merge_two_sorted_lists"
+path = "src/bin/linked_list/59_merge_two_sorted_lists.rs"
+
+[[bin]]
+name = "60_copy_list_with_random_pointer"
+path = "src/bin/linked_list/60_copy_list_with_random_pointer.rs"
