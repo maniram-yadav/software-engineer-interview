@@ -258,3 +258,85 @@ path = "src/bin/linked_list/59_merge_two_sorted_lists.rs"
 [[bin]]
 name = "60_copy_list_with_random_pointer"
 path = "src/bin/linked_list/60_copy_list_with_random_pointer.rs"
+
+[[bin]]
+name = "61_reverse_linked_list_ii"
+path = "src/bin/linked_list/61_reverse_linked_list_ii.rs"
+
+[[bin]]
+name = "62_reverse_nodes_in_k_group"
+path = "src/bin/linked_list/62_reverse_nodes_in_k_group.rs"
+
+[[bin]]
+name = "63_remove_nth_node_from_end_of_list"
+path = "src/bin/linked_list/63_remove_nth_node_from_end_of_list.rs"
+
+[[bin]]
+name = "64_remove_duplicates_from_sorted_list_ii"
+path = "src/bin/linked_list/64_remove_duplicates_from_sorted_list_ii.rs"
+
+[[bin]]
+name = "65_rotate_list"
+path = "src/bin/linked_list/65_rotate_list.rs"
+
+[[bin]]
+name = "66_partition_list"
+path = "src/bin/linked_list/66_partition_list.rs"
+
+[[bin]]
+name = "67_lru_cache"
+path = "src/bin/linked_list/67_lru_cache.rs"
+
+# ---- binary_tree_general (problems 68-80) ----
+
+[[bin]]
+name = "68_maximum_depth_of_binary_tree"
+path = "src/bin/binary_tree_general/68_maximum_depth_of_binary_tree.rs"
+
+[[bin]]
+name = "69_same_tree"
+path = "src/bin/binary_tree_general/69_same_tree.rs"
+
+[[bin]]
+name = "70_invert_binary_tree"
+path = "src/bin/binary_tree_general/70_invert_binary_tree.rs"
+
+[[bin]]
+name = "71_symmetric_tree"
+path = "src/bin/binary_tree_general/71_symmetric_tree.rs"
+
+[[bin]]
+name = "72_construct_binary_tree_from_preorder_and_inorder_traversal"
+path = "src/bin/binary_tree_general/72_construct_binary_tree_from_preorder_and_inorder_traversal.rs"
+
+[[bin]]
+name = "73_construct_binary_tree_from_inorder_and_postorder_traversal"
+path = "src/bin/binary_tree_general/73_construct_binary_tree_from_inorder_and_postorder_traversal.rs"
+
+[[bin]]
+name = "74_populating_next_right_pointers_in_each_node_ii"
+path = "src/bin/binary_tree_general/74_populating_next_right_pointers_in_each_node_ii.rs"
+
+[[bin]]
+name = "75_flatten_binary_tree_to_linked_list"
+path = "src/bin/binary_tree_general/75_flatten_binary_tree_to_linked_list.rs"
+
+[[bin]]
+name = "76_path_sum"
+path = "src/bin/binary_tree_general/76_path_sum.rs"
+
+[[bin]]
+name = "77_sum_root_to_leaf_numbers"
+path = "src/bin/binary_tree_general/77_sum_root_to_leaf_numbers.rs"
+
+[[bin]]
+name = "78_binary_tree_maximum_path_sum"
+path = "src/bin/binary_tree_general/78_binary_tree_maximum_path_sum.rs"
+
+[[bin]]
+name = "79_binary_search_tree_iterator"
+path = "src/bin/binary_tree_general/79_binary_search_tree_iterator.rs"
+
+[[bin]]
+name = "80_count_complete_tree_nodes"
+path = "src/bin/binary_tree_general/80_count_complete_tree_nodes.rs"
