@@ -340,3 +340,93 @@ path = "src/bin/binary_tree_general/79_binary_search_tree_iterator.rs"
 [[bin]]
 name = "80_count_complete_tree_nodes"
 path = "src/bin/binary_tree_general/80_count_complete_tree_nodes.rs"
+
+[[bin]]
+name = "81_lowest_common_ancestor_of_a_binary_tree"
+path = "src/bin/binary_tree_general/81_lowest_common_ancestor_of_a_binary_tree.rs"
+
+# ---- binary_tree_bfs (problems 82-85) ----
+
+[[bin]]
+name = "82_binary_tree_right_side_view"
+path = "src/bin/binary_tree_bfs/82_binary_tree_right_side_view.rs"
+
+[[bin]]
+name = "83_average_of_levels_in_binary_tree"
+path = "src/bin/binary_tree_bfs/83_average_of_levels_in_binary_tree.rs"
+
+[[bin]]
+name = "84_binary_tree_level_order_traversal"
+path = "src/bin/binary_tree_bfs/84_binary_tree_level_order_traversal.rs"
+
+[[bin]]
+name = "85_binary_tree_zigzag_level_order_traversal"
+path = "src/bin/binary_tree_bfs/85_binary_tree_zigzag_level_order_traversal.rs"
+
+# ---- binary_search_tree (problems 86-88) ----
+
+[[bin]]
+name = "86_minimum_absolute_difference_in_bst"
+path = "src/bin/binary_search_tree/86_minimum_absolute_difference_in_bst.rs"
+
+[[bin]]
+name = "87_kth_smallest_element_in_a_bst"
+path = "src/bin/binary_search_tree/87_kth_smallest_element_in_a_bst.rs"
+
+[[bin]]
+name = "88_validate_binary_search_tree"
+path = "src/bin/binary_search_tree/88_validate_binary_search_tree.rs"
+
+# ---- graph_general (problems 89-94) ----
+
+[[bin]]
+name = "89_number_of_islands"
+path = "src/bin/graph_general/89_number_of_islands.rs"
+
+[[bin]]
+name = "90_surrounded_regions"
+path = "src/bin/graph_general/90_surrounded_regions.rs"
+
+[[bin]]
+name = "91_clone_graph"
+path = "src/bin/graph_general/91_clone_graph.rs"
+
+[[bin]]
+name = "92_evaluate_division"
+path = "src/bin/graph_general/92_evaluate_division.rs"
+
+[[bin]]
+name = "93_course_schedule"
+path = "src/bin/graph_general/93_course_schedule.rs"
+
+[[bin]]
+name = "94_course_schedule_ii"
+path = "src/bin/graph_general/94_course_schedule_ii.rs"
+
+# ---- graph_bfs (problems 95-97) ----
+
+[[bin]]
+name = "95_snakes_and_ladders"
+path = "src/bin/graph_bfs/95_snakes_and_ladders.rs"
+
+[[bin]]
+name = "96_minimum_genetic_mutation"
+path = "src/bin/graph_bfs/96_minimum_genetic_mutation.rs"
+
+[[bin]]
+name = "97_word_ladder"
+path = "src/bin/graph_bfs/97_word_ladder.rs"
+
+# ---- trie (problems 98-100) ----
+
+[[bin]]
+name = "98_implement_trie_prefix_tree"
+path = "src/bin/trie/98_implement_trie_prefix_tree.rs"
+
+[[bin]]
+name = "99_design_add_and_search_words_data_structure"
+path = "src/bin/trie/99_design_add_and_search_words_data_structure.rs"
+
+[[bin]]
+name = "100_word_search_ii"
+path = "src/bin/trie/100_word_search_ii.rs"
